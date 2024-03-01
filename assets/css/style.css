@@ -1,0 +1,86 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  background-color: #ebe7e7;
+}
+/* Styles for the header*/
+header {
+  /* padding: 30px 30px 0px; */
+  padding-left: 10px;
+  font-family: Cambria, Optima, Arial;
+  background-color: #006699;
+  color: whitesmoke;
+  overflow: hidden;
+  display: flex;
+}
+
+header h1 {
+  /* display: inline; */
+  font-size: 48px;
+  /* border: 3px solid black; */
+  -webkit-text-stroke-color: #0b0b0b;
+  -webkit-text-stroke-width: 1px;
+}
+
+/* Styles for Navigation Bar */
+
+.navBar {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+  display: flex;
+  justify-content: flex-end;
+}
+
+nav {
+  background-color: #0b0b0b;
+  overflow: hidden;
+  margin: 10px;
+  margin-left: 60px;
+  box-shadow: 60px -16px whitesmoke;
+  border-radius: 10px;
+  outline-style: solid;
+  outline-color: black;
+  /* display: inline; */
+  width: 700px;
+}
+
+/* Style for the navigation links */
+nav li {
+  /* float: left; */
+}
+
+nav li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 20px;
+  text-decoration: none;
+}
+
+/* Style for the hover effect on nav bar */
+nav li a:hover {
+  background-color: #d2cdcd;
+  color: black;
+}
+
+.subsection {
+  display: flex;
+  height: 300px;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.subsection p {
+  width: 600px;
+}
+
+.subsection h2 {
+  border-right: 3px solid black;
+  padding-right: 10px;
+  padding-top: 40px;
+  height: 100px;
+}
