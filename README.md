@@ -3,15 +3,17 @@
 
 ## Description
 
+- The motivation behind this project was to create a web portfolio from scratch, highlighting our achievments so far. We were to use only HTML and CSS, and design the application to be responsive. 
+- It solves the issue of not having a way to show case to employers our best selves.
+- Working on this project has shown me the importance of structuring your code effectively from the beginning. Taking time to lay out your application will help to ensure a smooth styling process. It has also showed me the power of tools such as media queries and pseudo elements. 
 
-- The motivation behind this project was to add semantic HTML updates to meet accessibility standards.
-- It solves the issue of having vague elements that are not user friendly for those using assistive technology such as screen readers.
-- Working on this project has shown me the prevelance and drawbacks of non-semantic HTML, and in turn the benefits and various types of sematnic HTML.
-
-Live site: https://ghern5234.github.io/accessibility-refactoring/
+- This project was a great first attempting at building something from complete scratch, and was a huge learning opportunity. It might not be exactly how I want it, but I learned a lot and will definitely be making edits and updates as I learn more in the course.
 
 
-![alt text](Screenshot.png)
+Live site: 
+
+
+![alt text](webPortfolioScreenshot.png)
 
 ## Installation
 
@@ -19,7 +21,7 @@ N/A
 
 ## Usage
 
-This project is to be used as an example of functional and concise semantic html 
+This project is to be used as a showcase of the culmination of my work so far.
 
 ## Credits
 
