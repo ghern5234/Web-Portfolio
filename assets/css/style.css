@@ -84,13 +84,13 @@ nav li a:hover {
 .aboutMe {
   text-indent: 50px;
   overflow: hidden;
-  display: flex;
   align-items: center;
   border: 4px solid black;
-  padding: 20px;
+  padding: 30px;
   border-radius: 20px;
   background-color: white;
   margin-left: 50px;
+  width: 300%;
 }
 
 /* Style for subsections */
@@ -133,8 +133,6 @@ main h2 {
   margin-top: 300px;
 }
 .subsection1 p {
-  /* padding-left: 30px; */
-  display: flex;
   height: 400px;
   font-size: 90%;
   padding: 30px;
@@ -220,7 +218,7 @@ main h2 {
 /* Styling for contact me icons */
 .icon {
   height: 200px;
-  
+
   display: flex;
   justify-content: space-between;
   text-decoration: none;
@@ -304,15 +302,22 @@ main {
   }
 }
 
-/* @media screen and (max-width: 1032px) {
-  .icon {
-    height: 150px;
-    width: 150px;
-}
+@media screen and (max-width: 768px) {
+  .aboutMe {
+    width: 100%;
+  }
 }
 
- @media screen and (max-with: 1236px) {
-   .subsection p {
-    width: 300px;
-  }
-}  */
+.pContainer1 {
+  display: flex;
+  width: 80%;
+  align-items: center;
+}
+
+.applications1:hover {
+  transform: scale(1.5);
+}
+
+.applications2:hover {
+  transform: scale(1.5);
+}
