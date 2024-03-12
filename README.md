@@ -10,10 +10,11 @@
 - This project was a great first attempting at building something from complete scratch, and was a huge learning opportunity. It might not be exactly how I want it, but I learned a lot and will definitely be making edits and updates as I learn more in the course.
 
 
-Live site: 
+Live site: https://ghern5234.github.io/Web-Portfolio/
 
 
-![alt text](webPortfolioScreenshot.png)
+![alt text](<assets/images/webPortfolioScreenshot 2.png>)
+
 
 ## Installation
 
